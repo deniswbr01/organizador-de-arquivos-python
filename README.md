@@ -1,5 +1,7 @@
 # Organizador de Arquivos (Python)
 
+![Aplicativo](imagens/app.png)
+
 Fiz esse pequeno aplicativo em Python para organizar arquivos automaticamente por tipo dentro de uma pasta.
 
 A ideia surgiu porque minha pasta de downloads sempre ficava bagunçada, então resolvi criar uma ferramenta simples para resolver isso.
